@@ -18,6 +18,7 @@ public class JavaApplication9 {
         // TODO code application logic here
         System.out.println("one");
         System.out.println("From Clone");
+        System.out.println("From Branch");
     }
     
 }
