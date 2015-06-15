@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -19,6 +20,7 @@ public class JavaApplication9 {
         System.out.println("one");
         System.out.println("From Clone");
         System.out.println("From Branch");
+        System.out.println("From Branch2");
     }
     
 }
